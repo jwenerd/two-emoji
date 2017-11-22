@@ -1,0 +1,23 @@
+{
+  "name": "two-emoji",
+  "version": "0.0.1",
+  "description": "Two emoji creates a statement like \"be the _ you want to be in the _\" where the _ is replaced with random emoji characters.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "emojione": "^3.1.2",
+    "express": "^4.16.2",
+    "fb": "^2.0.0",
+    "jsonfile": "^4.0.0",
+    "lodash": "^4.17.4",
+    "node-sass-middleware": "^0.11.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {},
+  "license": "MIT"
+}

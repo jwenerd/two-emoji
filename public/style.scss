@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+  background-color: #D1D8D1;
+  color: #092140;
+  margin: 0;
+}
+
+a {
+  &, &:visited, &:hover, &:active {
+    color: inherit;
+  }
+}
+
+h1 {
+  font-size: 4em;
+  margin: 0.5em 0 0.1em 0;
+}
+
+.emoji {
+  font-size: 6em;
+  letter-spacing: 28px;
+  margin-left: 28px;
+}
+
+.desc {
+  margin: 0 20%;
+  
+  .q {
+    background-color: #c7dcf7;
+    padding:1px;
+  }
+}
+
+.credits {
+  font-size: 0.75em;
+  width: 100%;
+  margin-top: 60px;
+}

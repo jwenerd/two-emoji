@@ -1,0 +1,6 @@
+node_modules 
+.data/intros-history.json 
+package-lock.json
+.DS_Store
+.config
+.nano

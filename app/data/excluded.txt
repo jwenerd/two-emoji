@@ -1,0 +1,66 @@
+digit nine
+digit eight
+digit seven
+digit six
+digit five
+digit four
+digit three
+digit two
+digit one
+digit zero
+NG button
+keycap 10
+keycap: 0
+keycap: 9
+keycap: 8
+keycap: 7
+keycap: 6
+keycap: 5
+keycap: 4
+keycap: 3
+keycap: 2
+keycap: 1
+A button (blood type)
+B button (blood type)
+AB button (blood type)
+CL button
+ID button
+O button (blood type)
+circled M
+asterisk
+pound symbol
+black small square
+white small square
+black medium-small square
+white medium-small square
+black medium square
+white medium square
+VS button
+Japanese “acceptable” button
+Japanese “not free of charge” button
+Japanese “free of charge” button
+Japanese “application” button
+Japanese “open for business” button
+Japanese “monthly amount” button
+Japanese “bargain” button
+Japanese “passing grade” button
+Japanese “no vacancy” button
+Japanese “discount” button
+Japanese “prohibited” button
+Japanese symbol for beginner
+Japanese “reserved” button
+Japanese “vacancy” button
+Japanese “service charge” button
+Japanese “here” button
+one-thirty
+two-thirty
+three-thirty
+four-thirty
+five-thirty
+six-thirty
+seven-thirty
+eight-thirty
+nine-thirty
+ten-thirty
+eleven-thirty
+twelve-thirty
